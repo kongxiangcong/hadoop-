@@ -8,6 +8,7 @@
 ## Hadoop的shell操作
 
 hdfs文件访问只能通过绝对路径：hdfs://++hadoop01:9000++/ss
+
 **hadoop fs(原生文件系统客户端)**
 ```
 hadoop fs -ls /
